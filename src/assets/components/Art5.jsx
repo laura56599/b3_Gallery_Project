@@ -1,4 +1,4 @@
-import Art5 from '../assets/img/Art1.jpg'
+import Art5 from '../assets/img/Art5.jpg'
 
 export const Art5 = ({ props }) => {
     return (
