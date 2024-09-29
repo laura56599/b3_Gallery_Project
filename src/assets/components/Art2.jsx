@@ -1,5 +1,5 @@
-import art2 from '../assets/img/art2.jpg'
-import PropTypes from 'prop-types'
+import art2 from '../assets/img/art2.jpg';
+import PropTypes from 'prop-types';
 
 export const Art2 = ( {className} ) => {
     return (
@@ -8,5 +8,5 @@ export const Art2 = ( {className} ) => {
 }
  
 Art2.propTypes = {
-    className: PropTypes.string,
+    className: PropTypes.string
 }

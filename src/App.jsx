@@ -6,7 +6,7 @@ import { Art3 } from './assets/components/Art3';
 import { Art4 } from './assets/components/Art4';
 import { Art5 } from './assets/components/Art5';
 import { Art6 } from './assets/components/Art6';
-import { Navigation } from './components/Navigation';
+import { Navigation } from './assets/components/Navigation';
 
 function App() {
 
@@ -34,4 +34,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
